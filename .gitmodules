@@ -1,0 +1,3 @@
+[submodule "churchapi"]
+	path = churchapi
+	url = https://github.com/bikale/churchapi.git
